@@ -1,4 +1,4 @@
-# evoSpy
+# Spylet
 
 A simple lightweight bookmarklet to intercept network traffic (XHR/Fetch) in restricted (or not) environments. Created for reverse-engineering EcoleDirecte's API
 
@@ -23,7 +23,7 @@ Quick Start
 
 1.  Create a new bookmark in your browser (Safari, Chrome, Firefox).
     
-2.  Name it (e.g., evoSpy).
+2.  Name it (e.g., Spylet).
     
 3.  Paste the bookmarklet code into the URL/Location field.
     
@@ -50,4 +50,4 @@ Note : the button is very discreet in order to not affect the web experience.
 License
 ----------
 
-Distributed under the **European Union Public Licence v. 1.2 (EUPL 1.2)**.
+Distributed under the **MIT license**.
